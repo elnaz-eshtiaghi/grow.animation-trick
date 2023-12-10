@@ -1,8 +1,9 @@
-# Accordion-trick.15(animation)
+# Grow.animation-trick
+
 **If you have a lot of information to display on your site, why don't you use my project**
 
 ![Screenshot_2023_10_31-3](https://github.com/elnaz-eshtiaghi/trick.15-animation-/assets/146030206/6d372f6c-6c4b-4cd3-b23c-1d1ae04faadd)
-- [Demo Project]( https://elnaz-eshtiaghi.github.io/trick.15-animation-/)
+- [Demo Project]( https://elnaz-eshtiaghi.github.io/grow.animation-trick/)
 
 - Developed by elnaz eshtiaghi
 
